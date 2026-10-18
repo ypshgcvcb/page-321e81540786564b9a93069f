@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f45bc6edc328923e716159d3",
+  "owner": "ypshgcvcb",
+  "repo": "page-321e81540786564b9a93069f",
+  "title": "青丝(qingsiyun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "321e81540786564b9a93069f",
+      "a": "青丝(qingsiyun)",
+      "b": "",
+      "entity": "青丝(qingsiyun)",
+      "brand": "青丝(qingsiyun)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "585c53ded8aefe570abc334f73384cd36f58aeba8497b4716bd283c37ca0c746",
+      "content": {
+        "keyword1": "青丝(qingsiyun)",
+        "keyword2": "",
+        "primary_entity": "青丝(qingsiyun)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青丝(qingsiyun)提供条理分明的数据通道与网络分流配置。本文档整理当前规格、各终端连接步骤及技术答疑。",
+          "AI_DESCRIPTION": "青丝(qingsiyun)提供条理分明的数据通道与网络分流配置。本文档整理当前规格、各终端连接步骤及技术答疑。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #F7F5F0;--bg-card: #FFFFFF;--text-main: #241A15;--text-muted: #6B5E55;--brown-deep: #2B1D16;--brown-sub: #4A3B32;--mint-primary: #1F8A70;--mint-light: #E1F4ED;--mint-soft: #C2ECE0;--mint-accent: #15735B;--border-line: #E8E2D9;--radius-lg: 24px;--radius-md: 16px;--shadow-soft: 0 16px 36px -8px rgba(36, 26, 21, 0.08), 0 4px 12px -2px rgba(36, 26, 21, 0.04);--shadow-hover: 0 22px 48px -10px rgba(36, 26, 21, 0.12), 0 6px 16px -2px rgba(36, 26, 21, 0.06)}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;line-height: 1.68;letter-spacing: -0.01em;padding: 0 20px 80px}\nmain {max-width: 820px;margin: 0 auto}\n.hero-editorial {padding: 64px 0 36px;border-bottom: 1px solid var(--border-line)}\n.editorial-meta {display: flex;gap: 16px;font-size: 13px;text-transform: uppercase;color: var(--mint-accent);font-weight: 600;margin-bottom: 18px;letter-spacing: 0.06em}\nh1 {font-size: clamp(28px, 4.5vw, 42px);line-height: 1.25;color: var(--brown-deep);font-weight: 700;margin-bottom: 24px}\n.lead-text {font-size: 18px;line-height: 1.8;color: var(--brown-sub);margin-bottom: 18px}\n.editorial-body {font-size: 16px;color: var(--text-muted);line-height: 1.8;margin-bottom: 32px}\n.embedded-nav {display: flex;flex-wrap: wrap;gap: 10px;padding: 16px;background: rgba(31, 138, 112, 0.06);border-radius: var(--radius-md);margin-top: 24px}\n.nav-tag {display: inline-block;font-size: 14px;font-weight: 600;color: var(--brown-deep);background: #FFFFFF;padding: 6px 16px;border-radius: 999px;text-decoration: none;box-shadow: 0 2px 6px rgba(0,0,0,0.03)}\n.nav-tag:hover {background: var(--mint-primary);color: #FFFFFF}\n.section-block {padding: 56px 0 16px}\n.section-head {margin-bottom: 28px}\n.section-head h2 {font-size: 24px;color: var(--brown-deep);margin-bottom: 6px}\n.section-head p {font-size: 14px;color: var(--text-muted)}\n.plan-stack {display: flex;flex-direction: column;gap: 24px}\n.plan-card {background: var(--bg-card);border-radius: var(--radius-lg);padding: 32px;box-shadow: var(--shadow-soft);position: relative;border: 1px solid rgba(232, 226, 217, 0.6)}\n.plan-card.highlight {border: 1.5px solid var(--mint-primary);background: linear-gradient(180deg, #FFFFFF 0%, #FAFCFB 100%)}\n.plan-badge {display: inline-block;background: var(--mint-light);color: var(--mint-accent);font-size: 12px;font-weight: 700;padding: 4px 12px;border-radius: 999px;margin-bottom: 12px}\n.plan-top {display: flex;justify-content: space-between;align-items: baseline;flex-wrap: wrap;gap: 12px;border-bottom: 1px dashed var(--border-line);padding-bottom: 18px;margin-bottom: 20px}\n.plan-name {font-size: 22px;color: var(--brown-deep)}\n.plan-prices {text-align: right}\n.plan-price-monthly {font-size: 28px;font-weight: 700;color: var(--brown-deep)}\n.plan-price-annual {font-size: 13px;color: var(--text-muted);display: block}\n.feature-list {list-style: none;display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 12px 20px;margin-bottom: 24px}\n.feature-list li {font-size: 14px;color: var(--brown-sub);display: flex;align-items: center;gap: 8px}\n.feature-list li::before {content: \"\";display: inline-block;width: 6px;height: 6px;background: var(--mint-primary);border-radius: 50%;flex-shrink: 0}\n.btn-select {display: inline-block;text-align: center;background: var(--brown-deep);color: #FFFFFF;text-decoration: none;font-size: 14px;font-weight: 600;padding: 10px 24px;border-radius: 999px}\n.plan-card.highlight .btn-select {background: var(--mint-primary)}\n.btn-select:hover {opacity: 0.9}\n.setup-grid {display: grid;grid-template-columns: 1fr;gap: 16px}\n.setup-card {background: var(--bg-card);border-radius: var(--radius-lg);padding: 24px 28px;box-shadow: var(--shadow-soft);border: 1px solid rgba(232, 226, 217, 0.6)}\n.setup-card h3 {font-size: 17px;color: var(--brown-deep);margin-bottom: 12px}\n.setup-card ol {padding-left: 20px;color: var(--brown-sub);font-size: 14px}\n.setup-card li {margin-bottom: 8px}\n.setup-card li:last-child {margin-bottom: 0}\n.client-info-box {background: var(--mint-light);border-radius: var(--radius-lg);padding: 24px 28px;margin-top: 16px;color: var(--brown-deep)}\n.client-info-box p {font-size: 14px;margin-bottom: 6px}\n.client-info-box p:last-child {margin-bottom: 0}\n.faq-stack {display: flex;flex-direction: column;gap: 14px}\ndetails.faq-item {background: var(--bg-card);border-radius: var(--radius-lg);box-shadow: var(--shadow-soft);border: 1px solid rgba(232, 226, 217, 0.6);padding: 20px 24px}\ndetails.faq-item summary {font-size: 16px;font-weight: 600;color: var(--brown-deep);cursor: pointer;list-style: none;display: flex;justify-content: space-between;align-items: center}\ndetails.faq-item summary::-webkit-details-marker {display: none}\ndetails.faq-item summary::after {content: \"+\";font-size: 20px;font-weight: 400;color: var(--mint-primary);line-height: 1}\ndetails.faq-item[open] summary::after {content: \"−\"}\ndetails.faq-item p {margin-top: 14px;font-size: 14px;color: var(--brown-sub);line-height: 1.7}\nfooter {margin-top: 64px;padding-top: 24px;border-top: 1px solid var(--border-line);font-size: 13px;color: var(--text-muted);display: flex;justify-content: space-between;flex-wrap: wrap;gap: 12px}\nfooter a {color: var(--brown-deep);text-decoration: none}\n</style><main>\n  <header class=\"hero-editorial\">\n    <div class=\"editorial-meta\">记录卷宗 · 连通架构</div>\n    <h1>青丝(qingsiyun)：关于连接、通路与节点规整的备忘录</h1>\n    <p class=\"lead-text\">网络环境纷杂。规则必须直白，通道当有秩序。青丝提供清晰的分流节点与订阅交付。</p>\n    <div class=\"editorial-body\">\n      这里不堆砌夸张的修辞。连接就是数据包的稳妥传递。我们梳理了三套规格标准，覆盖日常读取、高频作业与多人协作。无论使用桌面端还是移动端，导入配置即可直接工作。\n    </div>\n    <nav class=\"embedded-nav\" aria-label=\"页面快速跳转\">\n      <a class=\"nav-tag\" href=\"#plans\">服务规格清单</a>\n      <a class=\"nav-tag\" href=\"#setup\">客户端接入步骤</a>\n      <a class=\"nav-tag\" href=\"#faq\">常见问题答疑</a>\n    </nav>\n  </header>\n\n  <section id=\"plans\" class=\"section-block\">\n    <div class=\"section-head\">\n      <h2>服务方案档位</h2>\n      <p>按周期结算。根据终端数量与流量需求选择。</p>\n    </div>\n    \n    <div class=\"plan-stack\">\n      <article class=\"plan-card\">\n        <div class=\"plan-top\">\n          <div>\n            <h3 class=\"plan-name\">基础版</h3>\n          </div>\n          <div class=\"plan-prices\">\n            <span class=\"plan-price-monthly\">¥15/月</span>\n            <span class=\"plan-price-annual\">按年付仅需 ¥150/年</span>\n          </div>\n        </div>\n        <ul class=\"feature-list\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#\" class=\"btn-select\">选用基础规格</a>\n      </article>\n\n      <article class=\"plan-card highlight\">\n        <span class=\"plan-badge\">推荐档位</span>\n        <div class=\"plan-top\">\n          <div>\n            <h3 class=\"plan-name\">旗舰版</h3>\n          </div>\n          <div class=\"plan-prices\">\n            <span class=\"plan-price-monthly\">¥35/月</span>\n            <span class=\"plan-price-annual\">按年付仅需 ¥350/年</span>\n          </div>\n        </div>\n        <ul class=\"feature-list\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"btn-select\">选用旗舰规格</a>\n      </article>\n\n      <article class=\"plan-card\">\n        <div class=\"plan-top\">\n          <div>\n            <h3 class=\"plan-name\">团队版</h3>\n          </div>\n          <div class=\"plan-prices\">\n            <span class=\"plan-price-monthly\">¥85/月</span>\n            <span class=\"plan-price-annual\">按年付仅需 ¥850/年</span>\n          </div>\n        </div>\n        <ul class=\"feature-list\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#\" class=\"btn-select\">选用团队规格</a>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"setup\" class=\"section-block\">\n    <div class=\"section-head\">\n      <h2>接入与客户端指引</h2>\n      <p>四步完成部署。核心在于准确获取并更新订阅链接。</p>\n    </div>\n\n    <div class=\"setup-grid\">\n      <div class=\"setup-card\">\n        <h3>通用配置步骤</h3>\n        <ol>\n          <li>进入用户中心复制专属订阅 URL。</li>\n          <li>在受支持的通用代理客户端中添加订阅配置。</li>\n          <li>点击更新节点列表，选择就近路由。</li>\n          <li>开启规则分流模式，按需分配本地流量。</li>\n        </ol>\n      </div>\n\n      <div class=\"client-info-box\">\n        <p><strong>适配说明：</strong>系统支持标准订阅格式。可在 Windows、macOS、iOS、Android 以及各类支持标准核心的路由系统上协同运作。</p>\n        <p>第三方客户端请前往其对应开源社区或官方发布页下载。本平台提供标准化配置接口。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"section-block\">\n    <div class=\"section-head\">\n      <h2>常见问题解答</h2>\n      <p>关于流量周期、节点分流与协议适配的具体说明。</p>\n    </div>\n\n    <div class=\"faq-stack\">\n      <details class=\"faq-item\">\n        <summary>每月流量如何计算重置？</summary>\n        <p>流量按自然周期计算。每月在账单订购日重置配额。当月未用尽额度不结转至下一周期。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>超过同时在线设备限制会怎样？</summary>\n        <p>超出限定数量的新设备发起握手时将被阻断。请关闭非活跃终端的连接以释放通道。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>遇到节点延迟高或无法同步如何排查？</summary>\n        <p>先在客户端内执行订阅强制同步。若本地 DNS 被污染，可在软件内切换公共 DoH 节点后再做测试。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>是否可以中途更换更高规格套餐？</summary>\n        <p>支持差额补齐升级。新规格的并发设备数与流量上限将在付款后即刻更新生效。</p>\n      </details>\n    </div>\n  </section>\n\n  <footer>\n    <div>© 青丝(qingsiyun) · 静态说明文档归档</div>\n    <div>\n      <a href=\"#plans\">返回套餐</a> · \n      <a href=\"#setup\">配置指引</a> · \n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </footer>\n</main>",
+          "hash": "181feb52fe232974cf41e574c3d768a328def3952c647eeb7ef383c3758ec5b9",
+          "seo": {
+            "title": "青丝(qingsiyun) - 网络分流与数据通道服务记录",
+            "keywords": "青丝, qingsiyun, 订阅方案, 数据转发, 网络中继, 客户端配置",
+            "description": "青丝(qingsiyun)提供条理分明的数据通道与网络分流配置。本文档整理当前规格、各终端连接步骤及技术答疑。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "8228",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cgqsl.cn",
+    "host": "p-2afeb3f439.cgqsl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "18a45579c907a2a2d30295cd742ca58760c4bea852c8a6bf2958e79599fe61ac",
+    "sitemap.xml": "d9c104578f2dfe799421a4c591bd163fcea9268c4f72100b58129bab0da5e820",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "40b59fbbc9b3559e083c45af520b2dad6b0ab549e7b30e881673c3f4bf8d7b04",
+    "robots.txt": "fcd002a2f281218706bb8274c0f83148f5a88251e01fb7aaab10285f3f9fed76",
+    "8189f09d762bd9b1f3d8129ce3e19b64.txt": "e656a84dedb447fef70354b028e3e749d6abce17b3bbac50f9c07999d12069b9"
+  },
+  "revision": "52db47a0bb8fac8833102abf5e0b11a30e0bf2a84aa5c2f3d4fbb9bfe1e98656"
+}
